@@ -1,5 +1,5 @@
-Assignment 2 - Python
-Task 1:
+# Assignment 2 - Python
+### Task 1:
 You are creating a Python program to simulate a simple guessing game. The game will have the following rules:
 1.	The program will generate a random number between 1 and 50 and store it in a variable called "secret_number." For this, you will need to import randint() from the random library in python. Run the following line of code in a cell:
 from random import randint
