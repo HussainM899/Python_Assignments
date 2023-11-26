@@ -1,5 +1,6 @@
-Assignment: Python Basics
-Instructions:
+# Assignment: Python Basics
+### Instructions:
+
 1. Complete the following tasks based on the concepts covered in the "Python Basics" session. Write your Python code in a .py file or use a Jupyter Notebook to solve the problems.
 2. Ensure that your code is well-commented, and variable names are descriptive.
 3. If any task requires output, print the result to the console.
