@@ -1,4 +1,5 @@
 # Assignment 2 - Python
+
 ### Task 1:
 You are creating a Python program to simulate a simple guessing game. The game will have the following rules:
 1.	The program will generate a random number between 1 and 50 and store it in a variable called "secret_number." For this, you will need to import randint() from the random library in python. Run the following line of code in a cell:
@@ -25,7 +26,8 @@ Try again! Your guess is too low. You have 3 attempts left.
 --- Second Chance! ---
 Guess the secret number (between 1 and 50): 20
 Congratulations! You guessed the secret number 20 correctly!
-Task 2:
+
+### Task 2:
 a)	Write a function called num_vowels that takes in a string as an argument, and returns the number of vowels in that string. Print out the result for the string “Learning Python is fun and engaging.”
 b)	Create a function called hours_to_min that converts hours into minutes. The function should take the number of hours as input and return the equivalent number of minutes. Test the function with 2.5 hours and print the result.
 c)	Write a python function that takes in a number as an argument, and prints out the table of that number up to 12 times that number. You may name this whatever you wish. 
